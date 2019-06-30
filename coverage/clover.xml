@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1559471459873" clover="3.2.0">
+  <project timestamp="1559471459873" name="All files">
+    <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1" elements="11" coveredelements="4" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1">
+      <file name="expences.js" path="/home/rutul/Desktop/myproject/expensify-app/src/actions/expences.js">
+        <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="3" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="19" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
